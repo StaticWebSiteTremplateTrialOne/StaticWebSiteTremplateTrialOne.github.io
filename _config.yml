@@ -1,10 +1,15 @@
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
 
 # Optional configuration options
 
 title: Heroes of Might and Magic in Memories
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Heroes of Might and Magic is a Mythologic and Strategic video game develop by New World Computing and 3D0 in 1999 :"" # the subpath of your site, e.g. /blog
+  Heroes of Might and Magic is a Mythologic and Strategic video game develop by New World Computing and 3D0 in 1999.
 url: "https://github.com/StaticWebSiteTremplateTrialOne/StaticWebSiteTremplateTrialOne.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author: Paul MICHAUX
@@ -15,13 +20,11 @@ github_username:  77Michaux
   # path: /feed.xml
 
 # Optional front matter
-image: "/img/HOMMIII.jpg"
+image: img/HOMMIII.jpg
 
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# Enable or Disable jekyll-feed
+feed:
+  disable_in_development: true
 
 
 
