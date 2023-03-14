@@ -2,6 +2,7 @@
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 
 # Optional configuration options
@@ -23,8 +24,8 @@ github_username:  77Michaux
 image: img/HOMMIII.jpg
 
 # Enable or Disable jekyll-feed
-feed:
-  disable_in_development: true
+# feed:
+  # disable_in_development: true
 
 
 
