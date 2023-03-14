@@ -4,8 +4,14 @@ title: About Heroes III
 permalink: /about/
 ---
 
-# Main Menu : Heroes of Might and Magic III
+# Heroes of Might and Magic III : Tower
 ___
-![Main Menu](img/Heroes oMM III.jpg)
+![Main Menu](img/Tower.jpg)
+___
+
+
+# Heroes of Might and Magic III : Inferno
+___
+![Main Menu](img/Inferno.jpg)
 ___
 
